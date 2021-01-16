@@ -12,4 +12,5 @@ I'm a consultant in the Org Design team at [FutureGov](https://www.wearefuturego
 I like turning problems into opportunities of value for public good.
 
 ## NOTES
+
 Things I'm thinking about, for long enough to write them down:
