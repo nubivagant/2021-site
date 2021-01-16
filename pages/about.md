@@ -1,33 +1,22 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+title: About
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I do change stuff, mostly in the public sector, with just enough internet.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+This means designing strategies for doing, delivering and managing products, and shaping services and organisations. Using the best of internet era ways of working to coach teams, make change happen and help organisations thrive in a networked world.
 
-## Our services
+### Currently…
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I’m a Consultant in the Org Design team at [FutureGov](https://www.wearefuturegov.com/), the change agency for 21st century public service organisations.
 
-### Blue-sky thinking
+### Before that...
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I was figuring out local government at [Leicestershire County Council](http://leicestershire.gov.uk/), leading the digital services team; a clever, multi-disciplinary bunch trying to make things better for the people of Leicestershire. Previously I was part of the Futures Directorate at [Orbit Housing Group](http://www.orbit.org.uk/), in the digital team at [Cogent Digital](https://www.cogent.co.uk/), Innovation R&D Officer at International development charity [Practical Action](http://practicalaction.org/) & Graduate Trainee at [Dare London](https://thisisdare.com/).
