@@ -11,4 +11,6 @@ I'm Kurtis – an Organisation Design Consultant at [FutureGov](https://www.wear
 
 I like turning problems into opportunities of value for public good.
 
-### Latest writing:
+<br>
+
+## Latest note:

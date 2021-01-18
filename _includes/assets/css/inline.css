@@ -71,7 +71,27 @@ img {
   gap: 0px 0px;
   grid-template-areas:
     "logo nav";
+	margin-bottom: 3rem;
 }
+
+
+  h2:before {
+    border-left: 45px solid var(--accentlight);
+    content: "";
+    display: block;
+    height: 8px;
+    margin-bottom: 1rem;
+}
+
+/* .line-top {
+    position: relative; }
+    .line-top:before {
+        border-left: 45px solid var(--accentlight);
+        content: "";
+        display: block;
+        height: 8px;
+        margin-bottom: 0.83333rem;
+} */
 
 .logo { grid-area: logo; }
 .nav { grid-area: nav; }
@@ -118,16 +138,28 @@ header > em {
 }
 
 	.sitelogo {
+		display: block;
 		transform: rotate(45deg);
     margin-top: 0;
+		margin-left: -0.67rem;
     max-width: 5rem;
 }
 
 
-h1, h3, h4 {
+h2, h3, h4 {
 	font-family: 'Fraunces', serif;
 	font-weight: 700;
 	font-style: italic;
+}
+
+h1 {
+	font-family: 'Fraunces', serif;
+	font-size: 2.4em;
+	font-weight: 200;
+	font-style: ;
+	/* background: -webkit-linear-gradient(var(--accentlight), #ccc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
 }
 
 /* Header Nav */
@@ -157,7 +189,16 @@ header nav li a[href]:not(:hover) {
 
 header nav li a[data-current="current item"] {
 	background-color: white;
+	color: #ffffff;
 }
+
+
+header nav li a[href]:hover {
+	text-decoration: none;
+	transition: color .15s ease-in;
+	color: var(--primary);
+}
+
 
 /* Posts List */
 article {
