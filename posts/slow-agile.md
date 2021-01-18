@@ -1,7 +1,7 @@
 ---
 title: Slow agile
 date: 2020-02-09T09:12:40.244Z
-author: Anonymous
+author: KJ
 summary: It might sound like an oxymoron, but ‘slow agile’ is a term I’ve landed
   on when trying to explain a concept we’re faced with often at FutureGov.
 tags:

@@ -1,10 +1,10 @@
 ---
 layout: layouts/blog.njk
-title: Blog
-metaDescription: A sample Blog page listing various posts and authors.
+title: Notes
+metaDescription: Things I'm thinking about, for long enough to write them down
 date: 2017-01-01
-permalink: /blog/index.html
+permalink: /notes/index.html
 eleventyNavigation:
-  key: Blog
+  key: Notes
   order: 2
 ---

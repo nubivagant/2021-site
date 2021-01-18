@@ -4,12 +4,16 @@
 	{% include "components/head.njk" %}
 
 	<body>
-
-		<header>
+		<header class="header-container">
+			<div class="logo">
 			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+				<a href="{{ '/' | url }}"><img class="sitelogo" src="/static/img/sitelogo.svg"></a>
+				<!-- <a href="{{ '/' | url }}"><h2>{{ metadata.title }}</h2></a> -->
 			</em>
+		</div>
+		<div class="nav">
 			{% include "components/nav.njk" %}
+		</div>
 		</header>
 
 		<main>
