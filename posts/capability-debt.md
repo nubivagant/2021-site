@@ -26,7 +26,7 @@ We might model this impact from the outset using indicative figures, or by extra
 
 In and of itself this is largely ok, it’s part of the consultancy tradeoff and part of any agency model where you’re dealing in short term projects, rather than long term partnerships. You often find yourself one abstraction or more away from delivery. It’s like the last mile conundrum in logistics. That even plagues Amazon. Though more and more I’m seeing that this is the moment in time where the real value of our interventions are either setup for success or destined for failure. We've built up capability debt, but don't have a plan to pay it back.
 
-![Capability debt](/assets/img/capability-debt.svg "capability debt graph")
+![Capability debt](/static/img/capability-debt.svg "capability debt graph")
 
 ## Building capability
 With this in mind, it’s worth adding the fact most of our work involves some element of capability building, alongside adding capacity (more designers) or bandwidth (space to think about a problem). Consciously or not, we attempt to build capability at various levels within an organisation:
@@ -42,11 +42,11 @@ So, the question then becomes ‘can the team we’ve handed over or left this w
 ## Finding the sweet spot
 As a framework for positioning design effort, we often refer to the Venn diagram of feasibility, desirability and viability.
 
-![Capability venn - the sweet spot](/assets/img/capability-venn-1.svg "capability venn - sweet spot")
+![Capability venn - the sweet spot](/static/img/capability-venn-1.svg "capability venn - sweet spot")
 
 Though whilst we strive to position our design outcomes in that sweet spot, I think we’re overlooking a major factor. Sustainability.
 
-![Capability venn - the sweetest spot](/assets/img/capability-venn-2.svg "capability venn - sweetest spot")
+![Capability venn - the sweetest spot](/static/img/capability-venn-2.svg "capability venn - sweetest spot")
 
 ## How do you get there?
 But how do you create lasting change? Let’s explore another analogy.
