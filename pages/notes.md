@@ -1,5 +1,5 @@
 ---
-layout: layouts/blog.njk
+layout: layouts/notes.njk
 title: Notes
 metaDescription: Things I'm thinking about, for long enough to write them down
 date: 2017-01-01

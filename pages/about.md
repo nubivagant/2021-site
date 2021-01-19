@@ -12,7 +12,7 @@ I do change stuff, mostly in the public sector, with just enough internet.
 
 This means designing strategies for doing, delivering and managing products, and shaping services and organisations. Using the best of internet era ways of working to coach teams, make change happen and help organisations thrive in a networked world.
 
-### Currently…
+### Currently...
 
 I’m a Consultant in the Org Design team at [FutureGov](https://www.wearefuturegov.com/), the change agency for 21st century public service organisations.
 
@@ -20,4 +20,4 @@ I’m a Consultant in the Org Design team at [FutureGov](https://www.wearefuture
 
 I was figuring out local government at [Leicestershire County Council](http://leicestershire.gov.uk/), leading the digital services team; a clever, multi-disciplinary bunch trying to make things better for the people of Leicestershire. Previously I was part of the Futures Directorate at [Orbit Housing Group](http://www.orbit.org.uk/), in the digital team at [Cogent Digital](https://www.cogent.co.uk/), Innovation R&D Officer at International development charity [Practical Action](http://practicalaction.org/) & Graduate Trainee at [Dare London](https://thisisdare.com/).
 
-# Say hello...
+## Say hello...

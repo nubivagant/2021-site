@@ -5,14 +5,13 @@ section: post
 
 <article>
   <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
-    </small>
-  </p>
 
   {{ layoutContent | safe }}
-
+<p>
+  <small>
+    <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
+  </small>
+</p>
   {% if tags %}
     <p>
     {% for tag in tags %}
@@ -27,5 +26,5 @@ section: post
 </article>
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/notes/' | url }}">← All notes</a>
 </nav>
