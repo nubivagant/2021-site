@@ -14,4 +14,4 @@ I like turning problems into opportunities of value for public good.
 
 <br>
 
-## Latest note:
+## Notes:
