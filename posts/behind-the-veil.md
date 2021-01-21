@@ -2,7 +2,7 @@
 title: Behind the veil
 date: 2020-10-10T15:35:15.692Z
 author: KJ
-summary: You’re eventually going to see the cracks in the facade
+summary: You’re eventually going to see the cracks in the facade.
 tags:
   - post
   - change
