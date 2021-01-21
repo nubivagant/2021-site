@@ -159,7 +159,6 @@ header > em {
 
 h2, h3, h4 {
 	font-family: 'Fira Mono', Monospace;
-	text-transform: uppercase;
 	font-weight: 400;
 }
 
@@ -167,7 +166,7 @@ h1 {
 	font-family: 'Playfair Display', serif;
 	font-size: 3.5em;
 	line-height: 1.2em;
-	margin-bottom: 2em;
+	margin-bottom: 1.6em;
 	font-weight: 900;
 	/* background: -webkit-linear-gradient(var(--accentlight), #ccc);
   -webkit-background-clip: text;

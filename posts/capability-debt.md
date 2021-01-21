@@ -10,7 +10,7 @@ tags:
 ---
 I want the people within organisations we partner with to have every chance of their work being as impactful as possible, without us. So I’m starting to think more and more about ‘what might it take for this to really happen?’.
 
-## Let’s talk about technical debt.
+## Let’s talk about technical debt
 Technical debt is a concept coined by Ward Cunningham (founder of the wiki) that refers to the idea of cutting corners when developing software.
 
 It describes how debt accumulates, which ultimately needs to be ‘paid back’ when making further improvements. You have to clear the debt that’s built up before you get back into credit.

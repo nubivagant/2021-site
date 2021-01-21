@@ -9,10 +9,10 @@ eleventyNavigation:
 ---
 # Kurtis Johnson
 
-I'm Kurtis – an Organisation Design Consultant at [FutureGov](https://www.wearefuturegov.com), the change agency for 21st century public service organisations.
+I'm an Organisation Design Consultant, currently at [FutureGov](https://www.wearefuturegov.com) – the change agency for 21st-century public institutions.
 
-I like turning problems into opportunities of value for public good.
+I like thinking deeply and acting boldly, with rigour and craft to create meaningful change. Mostly trying to turn problems into opportunities of value for public good.
 
 <br>
 
-> Sometimes I write stuff down, [you can read those notes here](/notes).
+> [Sometimes I write things down, you can read those notes here](/notes)
