@@ -4,3 +4,11 @@ section: home
 ---
 
 {{ layoutContent | safe }}
+
+<blockquote><h2>Latest note:</h2>
+{% set postslist = collections.latest %}
+{% include "components/postslist.njk" %}
+<nav>
+  <small><a href="{{ '/notes/' | url }}">← All notes</a></small>
+</nav>
+</blockquote>

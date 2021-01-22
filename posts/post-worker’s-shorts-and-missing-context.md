@@ -6,6 +6,7 @@ summary: To understand culture, you need to understand context.
 tags:
   - post
   - culture
+  - latest
 ---
 Culture isn’t always as it seems.
 
@@ -21,9 +22,9 @@ Imagine being on your feet all day, lugging all kinds of post around. Traversing
 
 It struck me that lots of culture is like this. Nuanced, odd, and easy to dismiss or misinterpret on the face of it. I think that’s because some things just don’t make sense when you look from the outside in.
 
-Context is such a valuable lens. We take that for granted. 
+Context is such a valuable lens. We take that for granted.
 
-Of course, there will alway be examples of things that have ‘always been that way’, or ‘that’s just how we do it here’. Often because nobody has had the time, space or permission to rethink them. 
+Of course, there will alway be examples of things that have ‘always been that way’, or ‘that’s just how we do it here’. Often because nobody has had the time, space or permission to rethink them.
 
 But there are always things that continue to ‘be that way’ because they work. They make sense. But only if you understand the context enough.
 

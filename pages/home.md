@@ -12,7 +12,4 @@ eleventyNavigation:
 I'm an Organisation Design Consultant, currently at [FutureGov](https://www.wearefuturegov.com) – the change agency for 21st-century public institutions.
 
 I like thinking deeply and acting boldly, with rigour and craft to create meaningful change. Mostly trying to turn problems into opportunities of value for public good.
-
 <br>
-
-> [Sometimes I write things down, you can read those notes here](/notes)

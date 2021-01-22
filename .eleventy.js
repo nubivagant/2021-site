@@ -10,6 +10,10 @@ module.exports = function(eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
+  eleventyConfig.addCollection("latest", function(collectionApi) {
+      return collectionApi.getFilteredByTag("latest").slice(0,3)
+    });
+
   // Added atome feed rss plugin
   eleventyConfig.addPlugin(pluginRss);
 
