@@ -2,6 +2,12 @@
   <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@kurtisojohnson" />
+  <meta name="twitter:title" content="{{ title }}" />
+  <meta name="twitter:description" content="{{ summary }}" />
+  <meta name="twitter:image" content="https://www.kurtisojohnson.com/static/img/logo.png" />
+  <meta name="twitter:image:alt" content="site logo for kurtisojohnson.com" />
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
