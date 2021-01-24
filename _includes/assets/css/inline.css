@@ -315,19 +315,18 @@ button {
         }
         header nav li {
                margin: 0 0.15em;
-               font-size: 0.8em;
         }
 
         header nav li a {
 	       padding: .15em .2em;
-               font-size: 0.8em;
+               font-size: 1rem;
         }
 
         h1 {
               font-size: 2.2em;
         }
         .sitelogo {
-              margin-left: -0.25rem;
+              margin-left: 0;
               max-width: 7em;
         }
 }
