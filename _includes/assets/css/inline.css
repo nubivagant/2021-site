@@ -315,6 +315,7 @@ button {
         }
         header > nav > li {
                margin: 0 0.15em;
+               font-size: 0.8em;
         }
 
         header > nav > li > a {
@@ -327,5 +328,6 @@ button {
         }
         .sitelogo {
               margin-left: -0.25em;
+              max-width: 7em;
         }
 }
