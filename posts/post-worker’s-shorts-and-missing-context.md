@@ -1,5 +1,5 @@
 ---
-title: Post worker’s shorts and missing context
+title: Postal worker’s shorts and missing context
 date: 2021-01-22T22:46:12.105Z
 author: KJ
 summary: To understand culture, you need to understand context.
