@@ -30,4 +30,4 @@ So what might the ‘cables’ be for our organisations? I used to think it migh
 
 Lately, I’ve come to think that the tools aren’t enough. Slack is great, but fatiguing and unruly. Trello is a graveyard of best-laid Kanban intentions gone awry. These things just add another dopamine inducing rush of notifications, that most of us don’t really need. You can’t hold an organisation together on that alone can you?
 
-I know I’m trivialising. There’s more to ways of working than software. BUT. It’s usually the stuff that gets sold. What else could we do?
+I know I’m trivialising. There’s more to ‘ways of working’ than software. BUT. It’s usually the stuff that gets sold. What else could we do?
