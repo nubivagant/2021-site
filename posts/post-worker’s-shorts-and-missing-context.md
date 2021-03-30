@@ -6,7 +6,6 @@ summary: To understand culture, you need to understand context.
 tags:
   - post
   - culture
-  - latest
 ---
 Culture isn’t always as it seems.
 
