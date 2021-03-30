@@ -4,6 +4,7 @@ date: 2021-03-30T14:02:47.017Z
 author: KJ
 summary: The decade the camera becomes the platform.
 tags:
+  - post
   - latest
   - tech
 ---
