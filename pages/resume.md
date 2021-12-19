@@ -1,0 +1,39 @@
+---
+layout: layouts/about.njk
+title: Resume
+metaDescription: Thinking deeply and acting boldly, with rigour and craft to create meaningful change
+date: 2021-01-01T00:00:00.000Z
+permalink: /resume/index.html
+
+---
+I like thinking deeply and acting boldly, with rigour and craft to create meaningful change. Mostly trying to turn problems into opportunities of value for public good.
+
+2017 – present
+#### Organisation Design Consultant
+Organisation Design Consultant
+TPXimpact / FutureGov
+
+Taking a human-centered approach to improving how people work together and how organisations prepare, structure for and respond to change.
+
+- Developing a capability building programme in human centred design for Essex County Council
+
+- Interim delivery director at Homes England to support the largest change programme in the agency’s history
+
+- Building a team organising model for a reimagined strategic housing service in Rochdale
+
+- Launching new public services through digital transformation within the Bloomberg European innovation initiative
+
+2015–2017
+#### Digital Services Manager
+Leicestershire County Council
+
+Established and led the council’s first digital services team, bringing a design-driven approach to service transformation and technology across the authority
+
+2013–2015
+#### Digital Specialist
+Orbit Housing Group
+Shaped and delivered the organisations 2020 digital strategy by leading internal technology change and customer facing service redesign
+
+#### Prior experience:
+Innovation research and development – Practical Action
+Graduate digital management and strategy – Dare London
