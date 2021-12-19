@@ -162,6 +162,11 @@ h2, h3, h4 {
 	font-weight: 400;
 }
 
+h4 {
+	font-family: 'Fira Mono', Monospace;
+	font-weight: 900;
+}
+
 h1 {
 	font-family: 'Playfair Display', serif;
 	font-size: 3.5em;
@@ -236,6 +241,23 @@ main > section > article > * {
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
+	display: inline-block;
+  vertical-align: text-top;
+  text-transform: uppercase;
+	letter-spacing: .1em;
+  font-size: .625em;
+  padding: 0 .5em;
+	line-height: 2em;
+	height: 2em;
+  border: 1px solid var(--secondary);
+	background-color: var(--secondary);
+	color: var(--accentlight);
+  border-radius: .25em;
+  text-decoration: none;
+	margin: 0 .5em .5em 0;
+}
+
+h5 {
 	display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;

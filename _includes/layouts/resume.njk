@@ -1,0 +1,27 @@
+<!doctype html>
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+
+	{% include "components/head.njk" %}
+
+	<body>
+		<header class="header-container">
+			<div class="logo">
+			<em>
+				<a href="{{ '/' | url }}"><img class="sitelogo" src="/static/img/logo.svg"></a>
+				<!-- <a href="{{ '/' | url }}"><h2>{{ metadata.title }}</h2></a> -->
+			</em>
+		</div>
+		<div>
+		<p> hello@kurtisojohnson | [+44]7709675021 </p>
+	</div>
+		</header>
+
+		<main>
+
+			{{ layoutContent | safe }}
+		</main>
+
+
+	</body>
+
+</html>
