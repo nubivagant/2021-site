@@ -28,7 +28,7 @@ TPXimpact / FutureGov
 #### Digital Services Manager
 Leicestershire County Council
 
-Established and led the council’s first digital services team, bringing a design-driven approach to service transformation and technology across the authority
+Established and led the council’s first digital services team, bringing a design-driven approach to service transformation and technology across the authority. Introduced human centred design and agile approaches to service delivery.
 
 ##### 2013–2015
 #### Digital Specialist
@@ -38,5 +38,6 @@ Shaped and delivered the organisations 2020 digital strategy by leading internal
 
 
 #### Prior experience:
+Agile delivery and digital product development – Cogent Digital
 Innovation research and development – Practical Action
 Graduate digital management and strategy – Dare London
