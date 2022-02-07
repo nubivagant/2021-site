@@ -6,13 +6,13 @@ date: 2021-01-01T00:00:00.000Z
 permalink: /resume/index.html
 
 ---
-## Kurtis Johnson
+# Kurtis Johnson
 
 I like thinking deeply and acting boldly, with rigour and craft to create meaningful change for people. Mostly trying to turn problems into opportunities of value for public good.
 
 <small>org design | strategy | coaching</small>
 
-## Experience {.resumeHtwo}
+## Experience
 
 ##### 2017 – present [4+ years]
 #### Organisation Design Consultant
