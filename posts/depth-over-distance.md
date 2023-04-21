@@ -1,5 +1,5 @@
 ---
-title: Your governance sucks
+title: Depth over distance
 date: 2023-04-19T20:45:43.602Z
 author: KJ
 summary: Can you really solve for something if you don’t at least understand the basics?
