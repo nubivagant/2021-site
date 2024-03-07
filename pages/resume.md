@@ -8,27 +8,30 @@ permalink: /resume/index.html
 ---
 # Kurtis Johnson
 
-I like thinking deeply and acting boldly, with rigour and craft to create meaningful change for people. Mostly trying to turn problems into opportunities of value for public good.
+I like thinking deeply and acting boldly, with rigour and craft to create meaningful change with and for people. I've spent the last decade mostly trying to turn problems into opportunities of value for public good across all levels of government.
 
 <small>org design | strategy | coaching</small>
 
 ## Experience
 
-##### 2017 – present [4+ years]
-#### Organisation Design Consultant
+##### 2017 – present [6+ years]
+#### Strategy & Transformation Consultant – Senior Manager
 TPXimpact / FutureGov
 
- Taking a human-centered approach to improving how people work together and how organisations prepare, structure for and respond to change.
- - Developing a capability building programme in human centred design for Essex County Council
- - Interim delivery director at Homes England to support the largest change programme in the agency’s history
- - Building a team organising model for a reimagined strategic housing service in Rochdale
- - Launching new public services through digital transformation within the Bloomberg European innovation initiative
+ Taking a human-centered approach to improving how people work together and how organisations prepare, structure, plan for and respond to change.
+
+ Experience highlights:
+
+ - Coaching and managing colleagues to realise their potential, develop our practice and navigate the organisation for a more positive work experience
+ - Designing and delivering digital fostering and adoption tools to equip more residents to support looked after children
+ - Leading the strategy and organising model design to help Surrey County Council deliver better resident outcomes
+ - Developing a capability building programme, digital maturity assessment framework and design maturity model to help TPX teams assess client capabilities
 
 ##### 2015–2017
 #### Digital Services Manager
 Leicestershire County Council
 
-Established and led the council’s first digital services team, bringing a design-driven approach to service transformation and technology across the authority. Introduced human centred design and agile approaches to service delivery.
+Established and led the council’s first digital services team of 12 DDaT professionals, bringing a design-driven approach to service transformation and technology across the authority.
 
 ##### 2013–2015
 #### Digital Specialist
