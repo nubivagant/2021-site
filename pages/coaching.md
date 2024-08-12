@@ -43,5 +43,6 @@ Northants Basketball Club
 
 ##### Supporting experience:
 Level 2 qualified basketball coach
+Enhanced DBS certificate
 Young People's Mentor – careers foundation
 Transforming Basketball coaching member
