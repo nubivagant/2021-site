@@ -10,7 +10,7 @@ permalink: /coaching/index.html
 
 An experienced basketball coach and mentor, passionate about developing players into future leaders through a lifelong commitment to the game.
 
-Following playing experience at junior international, universities and senior national league levels, I’ve translated this learning and insight into coaching across various levels. I’m passionate about learning - always striving to develop my coaching craft through the latest research and trends from across the globe. Whether that’s through a modern approach to skill acquisition, exploring conceptual offence or applying leadership and development techniques from the corporate world.
+Following playing experience at junior international, universities and senior national league, I’ve translated this learning and insight into coaching across various levels. I’m passionate about learning - always striving to develop my coaching craft through the latest research and trends from across the globe. Whether that’s through a modern approach to skill acquisition, exploring conceptual offence or applying leadership and development techniques from the corporate world.
 
 <small> coaching | mentoring | leadership development </small>
 
