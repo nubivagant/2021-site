@@ -5,7 +5,6 @@ author: KJ
 summary: The decade the camera becomes the platform.
 tags:
   - post
-  - latest
   - tech
 ---
 The decade the camera becomes the platform.
@@ -24,7 +23,7 @@ The interesting thing is that national adoption of track and trace wouldn’t ha
 
 When I notice these things, I’m always drawn back to Steven Johnson’s concept of the ‘adjacent possible’. Innovation tends to happen adjacent to the things that are already available. Better network connections laid the path for streaming services. More efficient silicone chips meant processing chips could be put into almost anything.
 
-In this case, mobile camera enhancements at the software layer afforded us with new ways of reducing the friction between the physical, built environment and the networked digital layer. You no longer need a separate app to read the QR. The camera becomes the bridge in being able to access the information it contains. 
+In this case, mobile camera enhancements at the software layer afforded us with new ways of reducing the friction between the physical, built environment and the networked digital layer. You no longer need a separate app to read the QR. The camera becomes the bridge in being able to access the information it contains.
 
 This shift, from a visual lens that’s passive and reactive (mirroring the legacy use case for a camera), to a more cognitive active extension of us. Helping us to decipher things. Adding human value to the machine readable.
 
