@@ -14,7 +14,7 @@ This means designing strategies for doing, delivering and managing products, and
 
 ### Currently...
 
-I’m a Consultant in the Org Design team at [FutureGov](https://www.wearefuturegov.com/), the change agency for 21st century public service organisations.
+I'm a Senior Consultant in our Org, Strategy and Transformation practice at [TPX Impact (formerly FutureGov &#9829;)](https://www.tpximpact.com) – a digital transformation company building a better future for people, places and the planet.
 
 ### Before that...
 

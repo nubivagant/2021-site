@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 # Kurtis Johnson
 
-I'm an Organisation Design Consultant, currently at [FutureGov](https://www.wearefuturegov.com) – the change agency for 21st-century public institutions.
+I'm an Organisation Design Consultant, currently at [TPX Impact (formerly FutureGov &#9829;)](https://www.tpximpact.com) – a digital transformation company building a better future for people, places and the planet.
 
 I like thinking deeply and acting boldly, with rigour and craft to create meaningful change. Mostly trying to turn problems into opportunities of value for public good.
 <br>
