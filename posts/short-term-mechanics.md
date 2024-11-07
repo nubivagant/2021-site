@@ -4,7 +4,6 @@ date: 2024-09-12T09:05:43.602Z
 author: KJ
 summary: The mechanics of government reinforce short term thinking, and it sucks
 tags:
-  - latest
   - post
   - consulting
   - organisations
