@@ -4,7 +4,6 @@ date: 2024-11-07T09:45:43.602Z
 author: KJ
 summary: Organisational memory and the critical mass of shared knowledge
 tags:
-  - latest
   - post
   - consulting
   - organisations
