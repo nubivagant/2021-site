@@ -4,7 +4,6 @@ date: 2024-12-04T06:45:43.602Z
 author: KJ
 summary: I think a lot about making memories.
 tags:
-  - latest
   - post
   - thoughtnotes
   - sinppets
