@@ -13,7 +13,7 @@ A million and a half homes. It won't solve the housing crisis we face, but it'll
 
 I've just finished a project for the day job, helping government develop evidence-based designs for housing delivery vehicles. They’re a throwback to development corporations of old, but reimagined for the future, where the vision is new towns built at scale and pace.
 
-In government, speed is always prioritised, driven by the constraints of political cycles. With a mere three to four year window to demonstrate impact, the pressure to move quickly butts heads with institutional inertia. As I’ve bemoaned before [LINK TO SLOW AGILE], there's often an illusion of momentum, with quick decision making followed by painfully slow delivery.
+In government, speed is always prioritised, driven by the constraints of political cycles. With a mere three to four year window to demonstrate impact, the pressure to move quickly butts heads with institutional inertia. As I’ve bemoaned before [in 'Slow agile'](https://www.kurtisojohnson.com/notes/slow-agile/), there's often an illusion of momentum, with quick decision making followed by painfully slow delivery.
 
 The primary thing slowing everything down? Land assembly. The term suggests something straightforward, like assembling a piece of flat pack furniture. Or land as Lego pieces that just need fitting together in a proper arrangement. But it's vastly more complex, with complexity rooted in how we value land both now and in a speculative future.
 

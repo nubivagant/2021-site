@@ -4,7 +4,6 @@ date: 2025-04-02T07:35:25.000Z
 author: KJ
 summary: A tech observation in retail
 tags:
-  - latest
   - post
   - tech
   - innovation
