@@ -16,6 +16,7 @@ At some point in the early formation of the laundries, someone made a decision. 
 This wasn't accidental. This was designed. Someone drew those plans. Someone approved them. Someone built them. And an entire organisation – the church, the state, the society that surrounded it – supported this complicitly. Not through active cruelty alone, but through systems and processes and hierarchies that made such decisions possible. That made them normal.
 
 How do we let decisions of this nature be made?
+
 I thought about this whilst sat in an all-hands meeting recently. A few slides into a business update when a new organisational shift was unveiled. Streamlining the business. Leadership tiers “rationalised”. More "accountability." Not once mentioning the people we actually serve. Not once asking if we were creating real value, or for whom, or why. Just efficiency. Just optimisation. Just the grinding logic of doing more with less, forever and ever, amen. And everyone nodded along. Everyone always nods along.
 
 Now, I'm not suggesting reorganisation, realignment and redundancy are anywhere near equivalent to the Magdalen laundries. That would be nuts. But I am saying this: organisations are designed. Decisions are made with intent. Systems are built that determine who has power and who doesn't, what counts as valuable and what doesn't, who matters and who can be discounted. And when we don't interrogate those designs, when we accept "that's just how things work”, we become complicit in whatever those systems produce.
