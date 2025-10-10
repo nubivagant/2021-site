@@ -4,7 +4,6 @@ date: 2025-04-05T12:51:18.000Z
 author: KJ
 summary: It’s a value capture problem.
 tags:
-  - latest
   - post
   - tech
   - planning

@@ -6,7 +6,7 @@ summary: Magdalen laundries, intent and fighting for your organisation
 tags:
   - latest
   - post
-  - organisation
+  - organisations
   - design
 ---
 The other day I discovered a harrowing fact about the Magdalen laundries. The monuments to institutional cruelty that have scarred Ireland well into living memory. These same laundries have sat with me ever since reading Claire Keegan’s wonderful portrait of one in Small Things Like These.
