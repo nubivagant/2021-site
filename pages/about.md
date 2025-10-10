@@ -14,10 +14,10 @@ This means designing strategies for doing, delivering and managing products, and
 
 ### Currently...
 
-I'm a Senior Consultant in our Org, Strategy and Transformation practice at [TPX Impact (formerly FutureGov &#9829;)](https://www.tpximpact.com) – a digital transformation company building a better future for people, places and the planet.
+I'm a Lead Organisation Designer in our Service and Organisation Design practice at [TPX Impact (formerly FutureGov &#9829;)](https://www.tpximpact.com) – a digital, design and transformation consultancy building a better future for people, places and the planet.
 
 ### Before that...
 
-I was figuring out local government at [Leicestershire County Council](http://leicestershire.gov.uk/), leading the digital services team; a clever, multi-disciplinary bunch trying to make things better for the people of Leicestershire. Previously I was part of the Futures Directorate at [Orbit Housing Group](http://www.orbit.org.uk/), in the digital team at [Cogent Digital](https://www.cogent.co.uk/), Innovation R&D Officer at International development charity [Practical Action](http://practicalaction.org/) & Graduate Trainee at [Dare London](https://thisisdare.com/).
+I was figuring out local government at [Leicestershire County Council](http://leicestershire.gov.uk/), leading the digital services team; a clever, multi-disciplinary bunch trying to make things better for residents. Prior to that, I was part of the Futures Directorate at [Orbit Housing Group](http://www.orbit.org.uk/), in the digital team at [Cogent Digital](https://www.cogent.co.uk/), Innovation R&D Officer at International development charity [Practical Action](http://practicalaction.org/) & Graduate Trainee at [Dare London](https://thisisdare.com/).
 
 ## Say hello...
