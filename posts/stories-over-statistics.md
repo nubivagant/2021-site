@@ -7,7 +7,7 @@ tags:
   - post
   - organisations
   - communication
-  – latest
+  - latest
 ---
 # Stories over statistics
 There's a banner outside a local school that makes me want to scream, quietly.
