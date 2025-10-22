@@ -5,7 +5,6 @@ author: KJ
 summary: There's a banner outside a local school that makes me want to scream, quietly.
 tags:
   - post
-  - schools
   - communication
   – organisations
   – latest
