@@ -255,23 +255,52 @@ header nav li a[href]:hover {
 }
 
 
-/* Posts List */
+/* Posts List - Card Style */
 
 blockquote > section > article {
 	border-bottom: 0;
 }
 
+/* Card container styling */
 article {
-	margin-bottom: 1em;
-	padding-bottom: 1em;
-	border-bottom: 1px solid var(--accentdark);
-	border-bottom: 1px solid var(--accentdark);
-	border-top: 1px solid var(--accentmiddle);
+	margin-bottom: 2em;
+	padding: 1.5em;
+	background-color: var(--secondary);
+	border: none;
+	border-left: 4px solid var(--accentlight);
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+	transition: all 0.2s ease-in-out;
 }
 
+article:hover {
+	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+	transform: translateY(-2px);
+}
+
+/* Reset margins within cards */
 main > section > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;
+}
+
+main > section > article > h3 {
+	margin-bottom: 0.5em;
+	line-height: 1.3;
+}
+
+main > section > article > h3 > a {
+	text-decoration: none;
+	color: var(--primary);
+}
+
+main > section > article > h3 > a:hover {
+	color: var(--accentlight);
+}
+
+/* Summary text styling */
+main > section > article > p:first-of-type {
+	margin-bottom: 1em;
+	color: var(--accentdark);
 }
 
 /* Post Tags */
@@ -285,12 +314,13 @@ a[rel="tag"]:visited {
   padding: 0 .5em;
 	line-height: 2em;
 	height: 2em;
-  border: 1px solid var(--secondary);
-	background-color: var(--secondary);
-	color: var(--accentlight);
+  border: 1px solid var(--background);
+	background-color: var(--background);
+	color: var(--accentdark);
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
+	transition: all 0.15s ease-in;
 }
 
 h5 {
@@ -311,8 +341,8 @@ h5 {
 }
 
 a[rel="tag"]:hover {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
+	border: 1px solid var(--accentlight);
+	background-color: var(--accentlight);
 	color: var(--secondary);
 }
 
@@ -387,4 +417,10 @@ button {
               margin-left: 0;
               max-width: 7em;
         }
+
+		/* Adjust card styling for mobile */
+		article {
+			padding: 1em;
+			margin-bottom: 1.5em;
+		}
 }
