@@ -9,7 +9,6 @@ tags:
   - communication
   - latest
 ---
-# Stories over statistics
 There's a banner outside a local school that makes me want to scream, quietly.
 
 ![School attendance banner](/static/img/school-banner.jpg "School attendance banner")
