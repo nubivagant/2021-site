@@ -256,13 +256,14 @@ header nav li a[href]:hover {
 
 
 /* Posts List - Card Style */
+/* Only applies to the posts listing page, not individual post pages */
 
 blockquote > section > article {
 	border-bottom: 0;
 }
 
-/* Card container styling */
-article {
+/* Card container styling - only in post lists */
+main > section > article {
 	margin-bottom: 2em;
 	padding: 1.5em;
 	background-color: var(--secondary);
@@ -272,7 +273,7 @@ article {
 	transition: all 0.2s ease-in-out;
 }
 
-article:hover {
+main > section > article:hover {
 	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 	transform: translateY(-2px);
 }
@@ -297,10 +298,18 @@ main > section > article > h3 > a:hover {
 	color: var(--accentlight);
 }
 
-/* Summary text styling */
+/* Summary text styling - only in post lists */
 main > section > article > p:first-of-type {
 	margin-bottom: 1em;
 	color: var(--accentdark);
+}
+
+/* Individual post pages keep the original simple border styling */
+main > article {
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid var(--accentdark);
+	border-top: 1px solid var(--accentmiddle);
 }
 
 /* Post Tags */
