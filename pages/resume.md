@@ -8,19 +8,19 @@ permalink: /resume/index.html
 ---
 # Kurtis Johnson
 
-Hello! I'm a strategic digital leader with over eight years experience shaping how organisations design, deliver and  improve products and services that meet the needs of real people. I lead multidisciplinary teams across organisation design, service design, research and delivery by setting direction, building capability, and creating the conditions for people to do their best work.
+Hello! I'm a strategic digital leader with over eight years experience across the public and third sectors, shaping how organisations design, deliver and improve products and services that meet the needs of real people. I lead multidisciplinary teams across organisation design, service design, research and delivery by setting direction, building capability, and creating the conditions for people to do their best work.
 
-I'm drawn to complex, mission driven problems where getting things right genuinely matters. My approach combines the craft of user-centred practice with pragmatic delivery, always grounded in measurable outcomes and meaningful sustainable change.
+I'm drawn to complex, mission driven problems where getting things right genuinely matters. My approach combines the craft of user-centred practice with pragmatic delivery, always grounded in measurable outcomes towards meaningful sustainable change.
 
 <small>design | strategy | coaching | transformation</small>
 
 ## Professional experience
 
 ##### 2017 – present [8+ years]
-#### Lead Designer – Service and Organisation Design
-TPXimpact / formerly FutureGov
+#### Lead Designer – Digital Transformation
+TPXimpact (formerly FutureGov 🖤)
 
-Leading multidisciplinary teams to design and deliver digital products, services and operating models across the public sector.
+Leading multidisciplinary teams to design and deliver digital products, services and operating models across the public and third sectors.
 
 **Strategic leadership:** Owning digital strategy and transformation programmes from discovery through to implementation. Defining outcomes, shaping investment priorities, and developing business cases grounded in user research and quantitative evidence.
 
@@ -32,8 +32,8 @@ Leading multidisciplinary teams to design and deliver digital products, services
 
 Selected project examples:
 
-- Researched, designed and delivered a set of digital tools to help Buckinghamshire Council equip more residents to support at-risk children within adoption and fostering services
-- Led organisation design for the New Towns Programme (MHCLG), developing an operating model approach recognised by the chair of the New Towns Taskforce
+- Researched, designed and delivered a set of digital tools to help Buckinghamshire Council's children's services, including a service directory built to open standards, and a 'ready to care' suite to equip more residents to support at-risk children
+- Led organisation design for the New Towns Programme (MHCLG), developing an operating model approach recognised by the chair of the New Towns Taskforce, to enable delivery of HMG's housing target
 - Designed and implemented a portfolio prioritisation approach for DCMS' DDaT function, improving senior leadership decision-making and transparency across their technology and product estate
 
 ##### 2015–2017
@@ -47,3 +47,9 @@ Established and led the council’s first digital services team of 12 DDaT profe
 Orbit Housing Group
 
 Shaped and delivered the organisations 2020 digital strategy by leading internal technology change and customer facing service redesign
+
+### Prior experience
+
+#### Digital Executive - Cogent Digital
+#### Innovation Executive – Practical Action (International Development Charity)
+#### Graduate Scheme – Dare Digital, London
