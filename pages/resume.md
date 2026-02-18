@@ -50,6 +50,6 @@ Shaped and delivered the organisations 2020 digital strategy by leading internal
 
 ### Prior experience
 
-#### Digital Executive - Cogent Digital
-#### Innovation Executive – Practical Action (International Development Charity)
-#### Graduate Scheme – Dare Digital, London
+*Digital Executive* - Cogent Digital
+*Innovation Executive* – Practical Action (International Development Charity)
+*Graduate Strategy Trainee* – Dare Digital, London
