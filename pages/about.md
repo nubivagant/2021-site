@@ -14,7 +14,7 @@ This means designing strategies for doing, delivering and managing products, and
 
 ### Currently...
 
-I'm a Lead Organisation Designer in our Service and Organisation Design practice at [TPX Impact (formerly FutureGov &#9829;)](https://www.tpximpact.com) – a digital, design and transformation consultancy building a better future for people, places and the planet.
+I'm a Design Lead in our Service and Organisation practice at [TPX Impact (formerly FutureGov &#9829;)](https://www.tpximpact.com) – a digital, design and transformation consultancy building a better future for people, places and the planet.
 
 ### Before that...
 
