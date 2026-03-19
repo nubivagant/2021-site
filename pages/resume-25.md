@@ -3,7 +3,7 @@ layout: layouts/resume.njk
 title: Kurtis Johnson
 metaDescription: Thinking deeply and acting boldly, with rigour and craft to create meaningful change
 date: 2025-01-01T00:00:00.000Z
-permalink: /resume/index.html
+permalink: /resume-25/index.html
 
 ---
 # Kurtis Johnson
