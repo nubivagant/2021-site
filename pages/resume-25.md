@@ -8,47 +8,52 @@ permalink: /resume-25/index.html
 ---
 # Kurtis Johnson
 
-Hello! I'm a strategic digital leader with over eight years experience across the public and third sectors, shaping how organisations design, deliver and improve products and services that meet the needs of real people. I lead multidisciplinary teams across organisation design, service design, research and delivery by setting direction, building capability, and creating the conditions for people to do their best work.
+I'm a digital transformation and organisational change leader with over eight years of experience helping public and third sector organisations build the capability, culture and operating models they need to make technology and data work for the people they serve. I've led DDaT function design, digital maturity programmes and capability development across government, health, housing and the voluntary sector — working at the level of strategy and structure, whilst staying close enough to delivery to know what actually lands.
+I'm drawn to problems where the human system is as consequential as the technical one. My approach combines rigorous organisational practice with user-centred thinking — always grounded in outcomes that matter to the communities being served.
 
-I'm drawn to complex, mission driven problems where getting things right genuinely matters. My approach combines the craft of user-centred practice with pragmatic delivery, always grounded in measurable outcomes towards meaningful sustainable change.
-
-<small>design | strategy | coaching | transformation</small>
+<small>transformation | operating model design | product thinking | organisational change</small>
 
 ## Professional experience
 
 ##### 2017 – present [8+ years]
-#### Lead Designer – Digital Transformation
+#### Lead Consultant – Digital Transformation: Organisation & Service Design
 TPXimpact (formerly FutureGov 🖤)
 
-Leading multidisciplinary teams to design and deliver digital products, services and operating models across the public and third sectors.
+TPXimpact is a leading digital transformation consultancy working across government, health and the voluntary sector. Within the Digital Transformation directorate, I lead multidisciplinary consulting engagements spanning DDaT capability development, operating model design, product function leadership and organisational change — working with senior leaders to build the foundations for lasting, meaningful transformation.
 
-**Strategic leadership:** Owning digital strategy and transformation programmes from discovery through to implementation. Defining outcomes, shaping investment priorities, and developing business cases grounded in user research and quantitative evidence.
+**Interim product leadership — Large international charity (current client)**
+Providing interim transformation leadership as the organisation transitions from siloed service lines to a new operating model. Responsible for designing and embedding a new product culture and model, defining role profiles and capability requirements, overseeing structural change, and maintaining BAU delivery across services in active development. Working directly with the new senior leadership team to set the function up for permanent hire success.
 
-**Team and practice leadership:** Line managing design practitioners whilst providing project leadership across delivery, design, tech and data and research disciplines. Coaching teams and clients to embed user-centred, open and collaborative ways of working. Developing capability building programmes and professional development pathways.
+**DDaT operating model and portfolio management — DCMS**
+Designed and implemented a portfolio prioritisation and demand management framework for the Department's DDaT function, giving senior leadership greater transparency and decision-making clarity across their technology and product estate. Worked across product, data and technology teams to embed standardised ways of working and improve cross-function coordination and prioritisation.
 
-**Portfolio and operating model design:** Leading operating model and portfolio design for DDaT functions, including governance, demand management and prioritisation frameworks. Shaping how teams organise around outcomes rather than outputs.
+**Digital capability and maturity — TPXimpact client delivery**
+Developed a digital maturity assessment framework, design maturity model and capability building programme to help client organisations assess, benchmark and grow their DDaT capability at scale. Used across multiple engagements to give senior leaders a structured view of where their teams are and what investment is needed.
 
-**Delivery and stakeholder engagement:** Project directing complex discovery and alpha phases with mixed internal and associate teams. Building trusted relationships with senior stakeholders, including SLT, policy leads and elected members and translating complex concepts for non-technical audiences.
+**Service design, technology and organisational change — Local Government**
+Researched, designed and delivered digital tools and service improvements to extend adoption and fostering capacity — combining user-centred service design, technology delivery and organisational change in a single integrated programme. Held together the technical build and the people change programme simultaneously, keeping focus on outcomes for the families the service was designed to reach.
 
-Selected project examples:
+**Operating model design — MHCLG**
+Led organisation design for a nationally significant cross-government housing and infrastructure initiative, developing an operating model in close partnership with colleagues from Arup and other built environment specialists. The approach was recognised by the chair of the New Towns Taskforce.
 
-- Researched, designed and delivered a set of digital tools to help Buckinghamshire Council's children's services, including a service directory built to open standards, and a 'ready to care' suite to equip more residents to support at-risk children
-- Led organisation design for the New Towns Programme (MHCLG), developing an operating model approach recognised by the chair of the New Towns Taskforce, to enable delivery of HMG's housing target
-- Designed and implemented a portfolio prioritisation approach for DCMS' DDaT function, improving senior leadership decision-making and transparency across their technology and product estate
+**Stakeholder and client leadership**
+Throughout all engagements, responsible for building trusted relationships with senior stakeholders including SLTs, policy leads, programme directors and elected members – across organisations with varying levels of digital maturity. Recognised for translating complex technical and organisational concepts clearly for non-technical audiences and bridging across professional cultures.
+
+Also responsible for end-to-end project delivery including financial management, resourcing and reporting; line management and coaching of senior consultants; and contribution to business development and proposal writing.
 
 ##### 2015–2017
 #### Digital Services Manager
 Leicestershire County Council
 
-Established and led the council’s first digital services team of 12 DDaT professionals, bringing a design-driven approach to service transformation and technology across the local authority.
+Established and led the council's first dedicated DDaT team – spanning design, product, technology and digital delivery. Built the function from the ground up: defining roles and structures, shaping a design-driven culture, and demonstrating the value of user-centred approaches to services and systems across the organisation.
 
 ##### 2013–2015
 #### Digital Specialist
 Orbit Housing Group
 
-Shaped and delivered the organisations 2020 digital strategy by leading internal technology change and customer facing service redesign
+Shaped and delivered the organisation's 2020 digital strategy, leading internal technology change and customer-facing service redesign.
 
-### Prior experience
+### Early career experience
 
 *Digital Executive* - Cogent Digital
 *Innovation Executive* – Practical Action (International Development Charity)
